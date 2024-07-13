@@ -20,7 +20,7 @@ We will not be responsible for misuse of the tool.
 
 >- **Platforms:** Roblox & Roblox Studio ```https://www.roblox.com/pt/download``` || ```https://create.roblox.com/```
 
->- **Plugin: **Animation Spoofer v2 ```https://create.roblox.com/store/asset/2537608092/```
+>- **Plugin:** Animation Spoofer v2 ```https://create.roblox.com/store/asset/2537608092/```
 
 
 **Installation & Usage**
