@@ -8,8 +8,10 @@
 ╚═╝░░╚═╝░╚════╝░╚═════╝░╚═════╝░╚═╝╚══════╝
 
 The Roblox Robin Hood, enjoy your favorite games for free.
-Educational purposes only.
-We will not be responsible for misuse of the tool.
+
+
+**Educational purposes only.**
+**We will not be responsible for misuse of the tool.**
 
 **Dependencies**
 
