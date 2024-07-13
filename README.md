@@ -32,7 +32,7 @@ The Roblox Robin Hood, enjoy your favorite games for free.
 3. Attach Bloxstrap to the executor and make sure it's running properly
 4. Execute ```saveinstance();``` in the injector and it will copy the scenario to the script's folder
 5. Close everything and **go back** to step 1, then **skip** from step 3 to step 6.
-6. Execute ```loadstring(game:HttpGet("https://raw.githubusercontent.com/Mreaggle/Robbie/main/robbie.lua"))()```
+6. Execute ```loadstring(game:HttpGet(""https://raw.githubusercontent.com/Mreaggle/Robbie/main/files/robbie.lua))()```
 7. Click all the animations you need to copy and get the IDs
 8. Install Animation Spoofer to Studio
 9. Put your ```animationIds``` into Animation Spoofer and click ```Convert```
