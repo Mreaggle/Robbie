@@ -10,7 +10,7 @@
 The Roblox Robin Hood, enjoy your favorite games for free.
 
 
-**Educational purposes only.**
+**Educational purposes only. This will create a local scenario where no illegal copy is being used.**
 **We will not be responsible for misuse of the tool.**
 
 **Dependencies**
